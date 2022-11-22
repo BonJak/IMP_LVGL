@@ -1,0 +1,11 @@
+src/
+cmake-build-debug/
+# everyting except APP
+.idea/
+*.h
+*.c
+*.o
+*.a
+*.so
+*.d
+# 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
