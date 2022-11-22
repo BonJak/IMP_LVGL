@@ -1,0 +1,1 @@
+factorialRecursive.o: factorialRecursive.c
