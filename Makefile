@@ -2,7 +2,7 @@
 
 CC = arm-linux-gcc
 CFLAGS = -MD -O2 -std=c99
-LDFLAGS =-ldl -pthread  -static
+LDFLAGS =-lts -ldl -pthread 
 
 
 APPDIR = .
